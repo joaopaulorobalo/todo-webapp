@@ -13,7 +13,7 @@ on:
       - '.github/workflows/todo-webapp.yaml'
 
 env:
-  AZURE_WEBAPP_NAME: "<PREFIX>-todoapp-prd-web"
+  AZURE_WEBAPP_NAME: "jrobalo-todoapp-prd-web"
   ARTIFACT_NAME: "todo-app"
 
 permissions:
